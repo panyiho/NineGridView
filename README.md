@@ -31,14 +31,16 @@ NineGridLayout
 
 
 
-  ![此处输入图片的描述][2]
-
-
+  ![效果1][2]
+  ![效果2][3]
+   
   [1]: http://blog.csdn.net/u012650948/article/details/43638427
-  [2]: http://img.blog.csdn.net/20150208195029403?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjY1MDk0OA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center
+
   
+  [3]: http://img.blog.csdn.net/20150208195246244?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjY1MDk0OA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center
 
 
+  
 ----------
 
 
